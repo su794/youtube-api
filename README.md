@@ -1,9 +1,20 @@
 # Overview
 
 <img width="659" alt="Screen Shot 2025-01-03 at 4 13 44 PM" src="https://github.com/user-attachments/assets/4f5b613f-f2d7-4251-bbc9-d97287bc2cfe" />
-<img width="659" alt="Screen Shot 2025-01-03 at 4 15 14 PM" src="https://github.com/user-attachments/assets/e82ed709-b866-424e-a6ff-f1e3bfc1e37a" />
-![Uploading Screen Shot 2025-01-03 at 4.16.07 PM.png…]()
 
+In this project, There are 3 pages configured using react-router-dom.
+/videos
+/videos/:keyword
+/video/watch/:videoId
+a Homepage and a page with a path '/videos' are displayed with popular videos.
+
+<img width="659" alt="Screen Shot 2025-01-03 at 4 15 14 PM" src="https://github.com/user-attachments/assets/e82ed709-b866-424e-a6ff-f1e3bfc1e37a" />
+
+When users type the keyword in the search form, the page leads to the videos with the keyword. If some user types the path with a specific keyword, the same screen will be displayed with the keyword in the search form.
+
+<img width="659" alt="Screen Shot 2025-01-03 at 4 16 07 PM" src="https://github.com/user-attachments/assets/aba48f36-82f5-4993-a0ed-5067bae6a330" />
+
+When the video is clicked, it leads to the video detail page with the video, video title, video description, channel Information, and the popular videos from this channel.
 
 # Getting Started with Create React App
 
