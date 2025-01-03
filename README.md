@@ -16,6 +16,10 @@ When users type the keyword in the search form, the page leads to the videos wit
 
 When the video is clicked, it leads to the video detail page with the video, video title, video description, channel Information, and the popular videos from this channel.
 
+Tools: React, TailwindCSS, Youtube Data API, axios, timeago.js, react-router-dom
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
