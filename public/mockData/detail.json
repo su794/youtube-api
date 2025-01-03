@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "NRIgbMKR5pXXfZMR-CCTzOif6x0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "JfnHAx7Ca1usIA49K7JbPqdtUIE",
+        "id": "1ipRd0WgB0c",
+        "snippet": {
+          "publishedAt": "2024-12-23T17:00:06Z",
+          "channelId": "UCSpNS4dJ8wIScwMqatIdiQw",
+          "title": "Summer Walker - Heart Of A Woman (Official Music Video)",
+          "description": "Summer Walker - Heart Of A Woman (Official Music Video)\n\n“Heart Of A Woman” Out Now\nListen: https://summerwalker.lnk.to/HOAW \nApple: https://summerwalker.lnk.to/HOAW/apple \nSpotify: https://summerwalker.lnk.to/HOAW/spotify \nAmazon Music: https://summerwalker.lnk.to/HOAW/amazon\n\nConnect: \nhttps://www.instagram.com/summerwalker/\nhttps://www.facebook.com/SummerWalkerOfficial/\nhttps://x.com/IAMSUMMERWALKER\n\n#SummerWalker #HeartOfAWoman #FinallyOverIt",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1ipRd0WgB0c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1ipRd0WgB0c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1ipRd0WgB0c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1ipRd0WgB0c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1ipRd0WgB0c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Summer Walker",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Summer Walker - Heart Of A Woman (Official Music Video)",
+            "description": "Summer Walker - Heart Of A Woman (Official Music Video)\n\n“Heart Of A Woman” Out Now\nListen: https://summerwalker.lnk.to/HOAW \nApple: https://summerwalker.lnk.to/HOAW/apple \nSpotify: https://summerwalker.lnk.to/HOAW/spotify \nAmazon Music: https://summerwalker.lnk.to/HOAW/amazon\n\nConnect: \nhttps://www.instagram.com/summerwalker/\nhttps://www.facebook.com/SummerWalkerOfficial/\nhttps://x.com/IAMSUMMERWALKER\n\n#SummerWalker #HeartOfAWoman #FinallyOverIt"
+          }
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }

@@ -1,35 +1,49 @@
-import React from 'react'
-import { useLocation } from 'react-router-dom';
-import ChannelInfo from '../components/ChannelInfo';
+import React from 'react';
+import { useParams } from 'react-router-dom';
+import { useQuery } from '@tanstack/react-query';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 import RelatedVideos from '../components/RelatedVideos';
+import ChannelInfo from './ChannelInfo';
 
 export default function VideoDetail() {
-  const {
-    state: {video},
-  } = useLocation();
-  const {title, channelId, channelTitle, description} = video.snippet;
+    const {videoId} = useParams();
+    const { youtube } = useYoutubeApi();
+    const {isLoading, error, data: videoDetail} = useQuery({
+      queryKey: [videoId],
+      queryFn: () => youtube.detail(videoId),
+    });
 
   return (
-    <section className="flex flex-col lg:flex-row">
-      <article className='basis-4/6'>
-        <iframe
-          id="player"
-          type="text/html"
-          width="100%"
-          height="640" 
-          src={`https://www.youtube.com/embed/${video.id}`} 
-          frameBorder="0"
-          title={title}
-        />
-        <div className='p-8'>
-          <h2 className='text-xl font-bold'>{title}</h2>
-          <ChannelInfo id={channelId} name={channelTitle} />
-          <pre className='whitespace-pre-wrap'>{description}</pre>
+    <>
+      <section className='flex-wrap md:flex'>
+        {isLoading && <p className='text-white'>Loading...</p>}
+
+        {error && <p className='text-white'>{error.message}</p>}
+
+        <div className='md:w-3/5 xl:w-3/4'>
+          <iframe 
+            id="player" 
+            type="text/html" 
+            width="100%" 
+            height="640"
+            src={`https://www.youtube.com/embed/${videoId}`}
+            title={videoDetail ? videoDetail.snippet.title : videoId}
+          ></iframe>
+          <div>
+            
+            {videoDetail && 
+            <>
+              <h2 className='text-white text-xl font-bold py-8'>{videoDetail.snippet.title}</h2>
+              <ChannelInfo id={videoDetail.snippet.channelId} name={videoDetail.snippet.channelTitle} />
+              <p className='text-white text-xs'>{videoDetail.snippet.description}</p> 
+            </>
+            }
+            
+          </div>
         </div>
-      </article>
-      <section className='basis-2/6'>
-        <RelatedVideos id={video.id} />
+        
+        {videoDetail && <RelatedVideos channelId={videoDetail.snippet.channelId} />}
       </section>
-    </section>
-  );
+    </>
+  )
 }

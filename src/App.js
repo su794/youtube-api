@@ -1,19 +1,42 @@
-import { Outlet } from 'react-router-dom';
-import SearchHeader from './components/SearchHeader';
-import {QueryClient, QueryClientProvider} from '@tanstack/react-query';
-import { YoutubeApiProvider } from './context/YoutubeApiContext';
+import './App.css';
+import { 
+  createBrowserRouter,
+  RouterProvider
+} from 'react-router-dom';
+import NotFound from './pages/NotFound';
+import Root from './pages/Root';
+import Videos from './pages/Videos';
+import VideoDetail from './pages/VideoDetail';
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Root />,
+    errorElement: <NotFound />,
+    children: [
+      {
+        index: true,
+        element: <Videos />,
+      },
+      {
+        path: '/videos',
+        element: <Videos />
+      },
+      {
+        path: '/videos/:keyword',
+        element: <Videos />
+      },
+      {
+        path: '/videos/watch/:videoId',
+        element: <VideoDetail />
+      },
+    ]
+  },
+]);
 
 function App() {
-  const queryClient = new QueryClient();
   return (
-    <>
-      <SearchHeader />
-      <YoutubeApiProvider>
-        <QueryClientProvider client={queryClient}>
-          <Outlet />
-        </QueryClientProvider>
-      </YoutubeApiProvider>
-    </>
+    <RouterProvider router={router} />
   );
 }
 

@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "3HHTiktnrBn9iEFQirwTrjRZdj8",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+      "totalResults": 725519,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9o3vWe7jwwy6hxYsTlbf874QSow",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AcZINTsuIWI"
+        },
+        "snippet": {
+          "publishedAt": "2024-12-23T22:00:08Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Can you predict if this code will compile in C#? Go!",
+          "description": "C# devs, we've got a new challenge for you! Can you predict the output of this code snippet involving interfaces and default ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AcZINTsuIWI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AcZINTsuIWI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AcZINTsuIWI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-12-23T22:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DvnSn8A5aTAyyRj-Jia1ZtIFWyY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gbObKqfqdlM"
+        },
+        "snippet": {
+          "publishedAt": "2024-12-19T19:23:20Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Multimodal Live API demo: GenList",
+          "description": "The Multimodal Live API lets developers build real-time multimodal applications using Gemini 2.0 Flash Experimental. This is a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gbObKqfqdlM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gbObKqfqdlM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gbObKqfqdlM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-12-19T19:23:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yfXLsL9ejepTkQIeu9aJhOrViWk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fQP8uE-g1vo"
+        },
+        "snippet": {
+          "publishedAt": "2024-11-14T21:00:13Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What is Gemma Scope?",
+          "description": "Explore Gemma Scope, a set of tools to help researchers understand the inner workings of Gemma 2, our lightweight family of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fQP8uE-g1vo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fQP8uE-g1vo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fQP8uE-g1vo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-11-14T21:00:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yjg5JFrzu9DQvM0UCqofUFYP19E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dHpWQPZCRgg"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-23T13:00:48Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Making presentable code can be a chore. Let Gemini help you polish.",
+          "description": "Learn how to build an AI powered content search. The Gemini API can transform the way you access information, giving you a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dHpWQPZCRgg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dHpWQPZCRgg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dHpWQPZCRgg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-23T13:00:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iwSPIuJvkzdLUW3Yhx-se2ftXDY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pwXQBmvO13s"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-18T16:01:02Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Fireside chat on Gemma&#39;s expansion to non-English languages",
+          "description": "Join Tokyo Science Institute's Professor Naoaki Okazaki and Korean GDE Junbum Lee, for an insightful discussion on Gemma's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pwXQBmvO13s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pwXQBmvO13s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pwXQBmvO13s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-18T16:01:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NaQfUEGGNYY3ayPkZM0YT3_-Zog",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YxhzozLH1Dk"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-08T23:00:13Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Business Email AI Assistant with Gemma | Build with Google AI",
+          "description": "Managing customer emails is a challenging and overwhelming task for many businesses. Meet the Business Email AI Assistant, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YxhzozLH1Dk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YxhzozLH1Dk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YxhzozLH1Dk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-08T23:00:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9joZIhIe9kCcaIW5W9siMTMMerw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3NePkYhFkiw"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-13T22:45:49Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "An introduction to MediaPipe’s Face Landmarker &amp; how it can power hands free gaming",
+          "description": "Paul and Lance dive deep into Face Landmarker, the underlying MediaPipe task that's used for Project Gameface and dissect the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3NePkYhFkiw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3NePkYhFkiw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3NePkYhFkiw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-13T22:45:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QAnw0WHUmSLuIQSkewtTXg2XTc0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2_Q_JI-A9eA"
+        },
+        "snippet": {
+          "publishedAt": "2024-02-16T17:00:04Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "From Student to Leader: Hyuna Kim&#39;s GDSC Journey",
+          "description": "In this video, Hyuna Kim details her journey as a GDSC Lead. Watch to get a glimpse of Hyuna's experience in this role, and how ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2_Q_JI-A9eA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2_Q_JI-A9eA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2_Q_JI-A9eA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-02-16T17:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TX_yCV-Ou6hftz7eh1d4uMvzClk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "s57wHChbRak"
+        },
+        "snippet": {
+          "publishedAt": "2024-01-24T08:00:26Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google Machine Learning Bootcamp Korea 2023  Recap",
+          "description": "Google Developers hosted the fourth cohort of Google Machine Learning Bootcamp Korea, a three-month intensive training ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s57wHChbRak/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s57wHChbRak/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s57wHChbRak/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-01-24T08:00:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6es5Xdq6mTdvNDehtEYmSN-A2wI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iGeRkjucX1M"
+        },
+        "snippet": {
+          "publishedAt": "2024-01-23T20:00:23Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What are your key takeaways from DevFest?",
+          "description": "Devs at DevFest Singapore list their key takeaways from the event. Resources: Flex your networking skills at a DevFest near you ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iGeRkjucX1M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iGeRkjucX1M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iGeRkjucX1M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-01-23T20:00:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "y7BK-BDIvpB0Auew92O56wrfEzU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lO3wMa_TSFE"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-12T22:00:30Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Virtual Machine and Android Primitive, Google Summer of Code 2023 Final Results, and more dev news!",
+          "description": "TL;DR 370 | The Google Developer News Show 0:00 - Intro 0:09 - Virtual Machine as a core Android Primitive ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lO3wMa_TSFE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lO3wMa_TSFE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lO3wMa_TSFE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-12T22:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TjIroin5lcHurn-nmWrhNlOT2Ew",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LpOaOvSKAjI"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-09T02:00:07Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Make sure these events don&#39;t overstay their holiday welcome. Go!",
+          "description": "Developers, it's time to crack a festive code conundrum! Our calendar app's holiday events, rather than wrapping up with the old ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LpOaOvSKAjI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LpOaOvSKAjI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LpOaOvSKAjI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-09T02:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XItI4wohO9_gGCmfKoYQJfT8kyI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JAWRxWpY8qI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-18T21:00:09Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What&#39;s the inside scoop for Devfest?",
+          "description": "Firebase engineers Puf and Rachel have the inside scoop on DevFest this season! Look forward to hyper-local conferences all ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JAWRxWpY8qI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JAWRxWpY8qI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JAWRxWpY8qI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-18T21:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "u0Y_NqtmE3CEjMfzNLowqcjhJtQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hleLlcHwQLM"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-10T22:30:48Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google I/O 2023 Developer Keynote in 5 minutes",
+          "description": "Discover what's new from Google, including top takeaways and highlights announced at Google I/O 2023. From deep investments ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-10T22:30:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Zi3cI-X1pYV0I7HUEGZp2wET97A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r8T0SnwHRNI"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-10T20:43:48Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Developer keynote (Google I/O &#39;23)",
+          "description": "Learn about the latest updates to our developer products and platforms at Google I/O 2023. To watch this keynote interpreted in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-10T20:43:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_SaxSCx55T-Cy9uFnodu5laTpd0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iR2O2GPbB0E"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-05T23:00:18Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What are Large Language Models (LLMs)?",
+          "description": "Learn about Large Language Models (LLMs), a powerful neural network that enables computers to process and generate ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iR2O2GPbB0E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iR2O2GPbB0E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iR2O2GPbB0E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-05T23:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F7ZdWFgDWC-1ASWiVZSSRhvndV4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AUZBmvBWsRg"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-14T15:52:11Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google for Games Developer Summit 2023 Keynote",
+          "description": "Hear from leaders across our Android, Google Play, Ads, and Cloud teams on new solutions for game developers that make it ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AUZBmvBWsRg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AUZBmvBWsRg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AUZBmvBWsRg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-14T15:52:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6zL6ftxxMq2USDrk7Ra__rE7qaI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Vo4GmHxZzZo"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-05T18:00:35Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Welcome to the 2022 Code Jam World Finals!",
+          "description": "On August 5, 2022, top programmers from around the world will compete virtually for the championship title and grand prize of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vo4GmHxZzZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vo4GmHxZzZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vo4GmHxZzZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-05T18:00:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VZ2mfpPnj_3Xi5qtnpLY4axQ2kk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RlJYk3ZYclk"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-28T17:55:37Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Solution Challenge Demo Day 2022 Project: Isak",
+          "description": "Isak combines the activity of jogging and litter collection to make picking up litter more impactful and social. The technology ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RlJYk3ZYclk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RlJYk3ZYclk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RlJYk3ZYclk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-28T17:55:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NP7hipH8HX4z8sGuCM6NbC4NoJ0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PHpveYiS0OQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-28T17:27:58Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "2022 Solution Challenge Demo Day",
+          "description": "Join us for the 2022 Solution Challenge Demo Day hosted by Google Developer Student Clubs! Over 2500 students and 830 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PHpveYiS0OQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PHpveYiS0OQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PHpveYiS0OQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-28T17:27:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5TE9mIffw6tbs2TkQplV8jglDQY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QtOKhZajFFU"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-12T16:05:45Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google Assistant functionality across Android devices",
+          "description": "In this Google I/O session, discover how Google Assistant functionality can be extended to many devices running Android. Google ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QtOKhZajFFU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QtOKhZajFFU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QtOKhZajFFU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-12T16:05:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hP64qjpo45MQbWtf3tOocbkrflQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "htG27DW5ju4"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-11T21:46:53Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google I/O 2022 Developer Keynote in 8 minutes",
+          "description": "What are the top takeaways from Google I/O 2022 for Google Developers? Get a quick overview of announcements for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/htG27DW5ju4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/htG27DW5ju4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/htG27DW5ju4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-11T21:46:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F0t-8BfPostug7rjdrY2QVHk3Pc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2gTCghy-dU4"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-11T20:47:42Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google Wallet API tutorial for Google Developers | Google I/O 2022",
+          "description": "In this Google Wallet API tutorial, Google Developers can explore Google Wallet for Android with a focus on quick and consistent ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2gTCghy-dU4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2gTCghy-dU4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2gTCghy-dU4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-11T20:47:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Slh8rQ6CkWX22ZO0d_xp9PwNeRE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ww7RItTgO48"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-11T20:25:51Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Developer Keynote (Google I/O &#39;22) — American Sign Language",
+          "description": "0:00 Introduction 2:53 Augmented Reality 5:46 Android 24:12 Web 30:14 Flutter 35:22 Firebase 41:59 Google Cloud 46:27 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ww7RItTgO48/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ww7RItTgO48/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ww7RItTgO48/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-11T20:25:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Yx6AcbbisqMggUa0BaXVrZ1SYcA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qBkyU1TJKDg"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-11T20:24:46Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Developer Keynote (Google I/O &#39;22)",
+          "description": "In this Developer Keynote from Google I/O 2022, Google Developers can learn about our developer products and platforms.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qBkyU1TJKDg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qBkyU1TJKDg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qBkyU1TJKDg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-11T20:24:46Z"
+        }
+      }
+    ]
+  }
