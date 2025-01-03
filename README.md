@@ -19,6 +19,9 @@ When the video is clicked, it leads to the video detail page with the video, vid
 Tools: React, TailwindCSS, Youtube Data API, axios, timeago.js, react-router-dom
 
 
+## Hurdles and Solutions
+
+1. Mock Data: When using Youtube DATA API, there is a quote usage per day. So I could use a limited number of API calls when I built the project. I added mock data in a JSON format to test the video list and other features without getting stuck. So after I tested the function with mock data enough, I used the real YouTube DATA API to see if it's working with real data.
 
 # Getting Started with Create React App
 
