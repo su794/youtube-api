@@ -23,7 +23,7 @@ Tools: React, TailwindCSS, Youtube Data API, axios, timeago.js, react-router-dom
 
 1. Mock Data: When using Youtube DATA API, there is a quote usage per day. So I could use a limited number of API calls when I built the project. I added mock data in a JSON format to test the video list and other features without getting stuck. So after I tested the function with mock data enough, I used the real YouTube DATA API to see if it's working with real data.
 2. When I started this project, related Videos API was available. But this relatedToVideoId parameter has currently been deprecated in the Youtube DATA API. Instead, I used the channel's popular videos for the video detail page.
-3.
+3. To go to the video detail page, there are 2 ways. one is to click the video card thumbnail and the other is to type the path in the URL. Usually, users click the video thumbnail, I didn't want the error display in the other case. At first, I used the useNavigation's state history. This works only when clicking the video card. So I passed the videoId and brought the video information with it.
 
 # Getting Started with Create React App
 
